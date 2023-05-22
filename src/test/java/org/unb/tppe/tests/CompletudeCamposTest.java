@@ -1,6 +1,6 @@
 package org.unb.tppe.tests;
 
-import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -16,40 +16,32 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Stream;
 
-import static org.junit.Assert.*;
-
 public class CompletudeCamposTest {
     private static List<Publicacao> publicacoes;
-    private static Random random;
-
-    @BeforeEach
-    public void initialize() {
-        publicacoes = new PublicacaoRepositoryImpl().findAll();
-        random = new Random();
-    }
+    private static final Random random = new Random();
 
     @ParameterizedTest
     @MethodSource("getPublicacoesForCompletudeCamposOrExclusivo")
     public void testCompletudeCamposOrExclusivo(Publicacao publicacao) {
-        assertTrue(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
+        Assertions.assertTrue(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
     }
 
     @ParameterizedTest
     @MethodSource("getPublicacoesForCompletudeCamposOrExclusivo2")
     public void testCompletudeCamposOrExclusivo2(Publicacao publicacao) {
-        assertFalse(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
+        Assertions.assertFalse(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
     }
 
     @ParameterizedTest
     @MethodSource("getPublicacoesForCompletudeCamposOrExclusivo3")
     public void testCompletudeCamposOrExclusivo3(Publicacao publicacao) {
-        assertTrue(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
+        Assertions.assertTrue(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
     }
 
     @ParameterizedTest
     @MethodSource("getPublicacoesForCompletudeRegistrosMultiCampos")
     public void testCompletudeRegistrosMultiCampos(Publicacao publicacao, boolean expectedResult) {
-        assertEquals(expectedResult, CompletudeRegistrosUtil.calcularCompletudeRegistrosMultiCampos(publicacao));
+        Assertions.assertEquals(expectedResult, CompletudeRegistrosUtil.calcularCompletudeRegistrosMultiCampos(publicacao));
     }
 
     private static Stream<Publicacao> getPublicacoesForCompletudeCamposOrExclusivo() {
@@ -162,6 +154,8 @@ public class CompletudeCamposTest {
     }
 
     private static Publicacao getRandomPublicacao() {
+        if (publicacoes == null || publicacoes.isEmpty())
+            publicacoes = new PublicacaoRepositoryImpl().findAll();
         return publicacoes.get(random.nextInt(publicacoes.size()));
     }
 }
