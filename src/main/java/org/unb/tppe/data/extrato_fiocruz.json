@@ -1,0 +1,824 @@
+[
+  {
+    "identifier.doi": "10.3395/2317-269x.00592",
+    "title": "Principais obstáculos que dificultam a inovação em instituições públicas da área farmacêutica no Brasil",
+    "language": "Português",
+    "publicationDate": "2016",
+    "volume": "4",
+    "series": "2",
+    "startPage": "2",
+    "endPage": "7",
+    "type": "journal article",
+    "keyword": [
+      "Inovação",
+      "Indústria Farmacêutica",
+      "Laboratórios oficiais"
+    ],
+    "researchArea.cnpq": [],
+    "resourceUrl": "http://https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/592",
+    "PublisherJournal": {
+      "identifier.issn": "2317-269X",
+      "title": "Vigilância Sanitária em Debate: Sociedade, Ciência & Tecnologia"
+    },
+    "authors": [
+      {
+        "name": "Marcus Vinícius Lima do Couto",
+        "ordemAutoria": "1",
+        "citationName": [
+          "COUTO, M. V. L."
+        ]
+      },
+      {
+        "name": "Aline Rodrigues Venâncio das Neves",
+        "ordemAutoria": "2",
+        "citationName": [
+          "NEVES, A. R. V."
+        ]
+      },
+      {
+        "name": "Ester Ribeiro de Figueiredo",
+        "ordemAutoria": "3",
+        "citationName": [
+          "FIGUEIREDO, E. R."
+        ]
+      },
+      {
+        "name": "Larissa dos Santos da Silveira",
+        "ordemAutoria": "4",
+        "citationName": [
+          "SILVEIRA, L. S."
+        ]
+      },
+      {
+        "name": "Luciana Veloso da Costa",
+        "ordemAutoria": "5",
+        "citationName": [
+          "COSTA, L. V.",
+          "COSTA, LUCIANA",
+          "DA COSTA, LUCIANA VELOSO"
+        ],
+        "identifier.lattes": "0006350082498931",
+        "nationality": "Brasil",
+        "birthCity": "Rio de Janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Controle de Qualidade",
+          "Microbiologia",
+          "Vigilância Sanitária"
+        ],
+        "miniBiography": "Cursou o bacharelado em Microbiologia e Imunologia na Universidade Federal do Rio de Janeiro (2003) e o bacharelado em Farmácia na Universidade Estácio de Sá (2007). Possui especialização em Farmácia Industrial pela Universidade Estácio de Sá (2008). Cursou o Mestrado Profissional em Gestão, Pesquisa e Desenvolvimento na Indústria Farmacêutica em Farmanguinhos/Fiocruz e o doutorado em Vigilância Sanitária no INCQS/Fiocruz. Atua como Tecnologista em Saúde Pública no Laboratório de Controle Microbiológico de Bio-Manguinhos/Fiocruz.",
+        "miniBiography_eng": "graduation at Microbiologia e Imunologia from Universidade Federal do Rio de Janeiro (2003) and graduation at Farmácia from Universidade Estácio de Sá (2007). , acting on the following subjects: brequinar, maldi-tof ms, immunossupressant, virus vaccinia and indústria farmacêutica."
+      },
+      {
+        "name": "Wanise Borges Gouvea Barroso",
+        "ordemAutoria": "6",
+        "citationName": [
+          "BARROSO, W. B. G."
+        ]
+      }
+    ]
+  },
+  {
+    "identifier.doi": "10.3395/2317-269x.00592",
+    "title": "Principais obstáculos que dificultam a inovação em instituições públicas da área farmacêutica no Brasil",
+    "language": "Português",
+    "publicationDate": "2016",
+    "volume": "4",
+    "series": "2",
+    "startPage": "2",
+    "endPage": "7",
+    "type": "journal article",
+    "keyword": [
+      "Inovação",
+      "Indústria Farmacêutica",
+      "Laboratórios oficiais"
+    ],
+    "researchArea.cnpq": [],
+    "resourceUrl": "http://https://visaemdebate.incqs.fiocruz.br/index.php/visaemdebate/article/view/592",
+    "PublisherJournal": {
+      "identifier.issn": "2317-269X",
+      "title": "Vigilância Sanitária em Debate: Sociedade, Ciência & Tecnologia"
+    },
+    "authors": [
+      {
+        "name": "Marcus Vinícius Lima do Couto",
+        "ordemAutoria": "1",
+        "citationName": [
+          "COUTO, M. V. L."
+        ]
+      },
+      {
+        "name": "Aline Rodrigues Venâncio das Neves",
+        "ordemAutoria": "2",
+        "citationName": [
+          "NEVES, A. R. V."
+        ]
+      },
+      {
+        "name": "Ester Ribeiro de Figueiredo",
+        "ordemAutoria": "3",
+        "citationName": [
+          "FIGUEIREDO, E. R."
+        ]
+      },
+      {
+        "name": "Larissa dos Santos da Silveira",
+        "ordemAutoria": "4",
+        "citationName": [
+          "SILVEIRA, L. S."
+        ]
+      },
+      {
+        "name": "Luciana Veloso da Costa",
+        "ordemAutoria": "5",
+        "citationName": [
+          "COSTA, L. V.",
+          "COSTA, LUCIANA",
+          "DA COSTA, LUCIANA VELOSO"
+        ],
+        "identifier.lattes": "0006350082498931",
+        "nationality": "Brasil",
+        "birthCity": "Rio de Janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Controle de Qualidade",
+          "Microbiologia",
+          "Vigilância Sanitária"
+        ],
+        "miniBiography": "Cursou o bacharelado em Microbiologia e Imunologia na Universidade Federal do Rio de Janeiro (2003) e o bacharelado em Farmácia na Universidade Estácio de Sá (2007). Possui especialização em Farmácia Industrial pela Universidade Estácio de Sá (2008). Cursou o Mestrado Profissional em Gestão, Pesquisa e Desenvolvimento na Indústria Farmacêutica em Farmanguinhos/Fiocruz e o doutorado em Vigilância Sanitária no INCQS/Fiocruz. Atua como Tecnologista em Saúde Pública no Laboratório de Controle Microbiológico de Bio-Manguinhos/Fiocruz.",
+        "miniBiography_eng": "graduation at Microbiologia e Imunologia from Universidade Federal do Rio de Janeiro (2003) and graduation at Farmácia from Universidade Estácio de Sá (2007). , acting on the following subjects: brequinar, maldi-tof ms, immunossupressant, virus vaccinia and indústria farmacêutica."
+      },
+      {
+        "name": "Wanise Borges Gouvea Barroso",
+        "ordemAutoria": "6",
+        "citationName": [
+          "BARROSO, W. B. G."
+        ]
+      }
+    ]
+  },
+  {
+    "identifier.doi": "10.52397/rcubm.v23i45.1036",
+    "title": "Diversidade de cepas de Stenotrophomonas maltophilia isoladas entre 1958 e 2021 e genotipadas por multilocus sequence typing",
+    "language": "Português",
+    "publicationDate": "2021",
+    "volume": "23",
+    "series": "45",
+    "startPage": "129",
+    "endPage": "141",
+    "type": "journal article",
+    "keyword": [
+      "Epidemiologia",
+      "MLST",
+      "Caracterização molecular",
+      "Stenotrophomonas maltophilia"
+    ],
+    "researchArea.cnpq": [
+      "CIENCIAS_BIOLOGICAS",
+      "Saúde Pública"
+    ],
+    "resourceUrl": "http://revista.ubm.br/index.php/revistacientifica/article/view/1036][doi:10.52397/rcubm.v23i45.1036",
+    "PublisherJournal": {
+      "identifier.issn": "1516-4071",
+      "title": "REVISTA CIENTÍFICA DO CENTRO UNIVERSITÁRIO DE BARRA MANSA"
+    },
+    "authors": [
+      {
+        "name": "LAGE, REBECA VITÓRIA DA SILVA",
+        "ordemAutoria": "1",
+        "citationName": [
+          "LAGE, REBECA VITÓRIA DA SILVA"
+        ]
+      },
+      {
+        "name": "COSTA, PAULA VASCONCELOS",
+        "ordemAutoria": "2",
+        "citationName": [
+          "COSTA, PAULA VASCONCELOS"
+        ]
+      },
+      {
+        "name": "Luciana Veloso da Costa",
+        "ordemAutoria": "3",
+        "citationName": [
+          "COSTA, L. V.",
+          "COSTA, LUCIANA",
+          "DA COSTA, LUCIANA VELOSO"
+        ],
+        "identifier.lattes": "0006350082498931",
+        "nationality": "Brasil",
+        "birthCity": "Rio de Janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Controle de Qualidade",
+          "Microbiologia",
+          "Vigilância Sanitária"
+        ],
+        "miniBiography": "Cursou o bacharelado em Microbiologia e Imunologia na Universidade Federal do Rio de Janeiro (2003) e o bacharelado em Farmácia na Universidade Estácio de Sá (2007). Possui especialização em Farmácia Industrial pela Universidade Estácio de Sá (2008). Cursou o Mestrado Profissional em Gestão, Pesquisa e Desenvolvimento na Indústria Farmacêutica em Farmanguinhos/Fiocruz e o doutorado em Vigilância Sanitária no INCQS/Fiocruz. Atua como Tecnologista em Saúde Pública no Laboratório de Controle Microbiológico de Bio-Manguinhos/Fiocruz.",
+        "miniBiography_eng": "graduation at Microbiologia e Imunologia from Universidade Federal do Rio de Janeiro (2003) and graduation at Farmácia from Universidade Estácio de Sá (2007). , acting on the following subjects: brequinar, maldi-tof ms, immunossupressant, virus vaccinia and indústria farmacêutica."
+      },
+      {
+        "name": "VILLAS BÔAS, MARIA HELENA SIMÕES",
+        "ordemAutoria": "4",
+        "citationName": [
+          "VILLAS BÔAS, MARIA HELENA SIMÕES"
+        ]
+      },
+      {
+        "name": "BRANDÃO, MARCELO LUIZ LIMA",
+        "ordemAutoria": "5",
+        "citationName": [
+          "BRANDÃO, MARCELO LUIZ LIMA"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Avaliação da diversidade microbiana presente em sistema gerador de água purificada de uma indústria farmacêutica",
+    "language": "Português",
+    "publicationDate": "2017",
+    "volume": "98",
+    "series": "1",
+    "startPage": "1919",
+    "endPage": "1937",
+    "type": "journal article",
+    "keyword": [
+      "água purificada",
+      "Controle microbiológico",
+      "Delftia acidovorans",
+      "Indústria Farmacêutica",
+      "MALDI-TOF MS"
+    ],
+    "researchArea.cnpq": [
+      "CIENCIAS_DA_SAUDE",
+      "Microbiologia"
+    ],
+    "resourceUrl": "",
+    "PublisherJournal": {
+      "identifier.issn": "2176-0667",
+      "title": "REVISTA BRASILEIRA DE FARMÁCIA (ON LINE)"
+    },
+    "authors": [
+      {
+        "name": "Luciana Veloso da Costa",
+        "ordemAutoria": "1",
+        "citationName": [
+          "COSTA, L. V.",
+          "COSTA, LUCIANA",
+          "DA COSTA, LUCIANA VELOSO"
+        ],
+        "identifier.lattes": "0006350082498931",
+        "nationality": "Brasil",
+        "birthCity": "Rio de Janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Controle de Qualidade",
+          "Microbiologia",
+          "Vigilância Sanitária"
+        ],
+        "miniBiography": "Cursou o bacharelado em Microbiologia e Imunologia na Universidade Federal do Rio de Janeiro (2003) e o bacharelado em Farmácia na Universidade Estácio de Sá (2007). Possui especialização em Farmácia Industrial pela Universidade Estácio de Sá (2008). Cursou o Mestrado Profissional em Gestão, Pesquisa e Desenvolvimento na Indústria Farmacêutica em Farmanguinhos/Fiocruz e o doutorado em Vigilância Sanitária no INCQS/Fiocruz. Atua como Tecnologista em Saúde Pública no Laboratório de Controle Microbiológico de Bio-Manguinhos/Fiocruz.",
+        "miniBiography_eng": "graduation at Microbiologia e Imunologia from Universidade Federal do Rio de Janeiro (2003) and graduation at Farmácia from Universidade Estácio de Sá (2007). , acting on the following subjects: brequinar, maldi-tof ms, immunossupressant, virus vaccinia and indústria farmacêutica."
+      },
+      {
+        "name": "Erica Louro da Fonseca",
+        "ordemAutoria": "2",
+        "citationName": [
+          "FONSECA, E. L."
+        ]
+      },
+      {
+        "name": "Luciane Martins Medeiros",
+        "ordemAutoria": "3",
+        "citationName": [
+          "MEDEIROS, L. M."
+        ]
+      },
+      {
+        "name": "Fernanda Ventura Cruz",
+        "ordemAutoria": "4",
+        "citationName": [
+          "CRUZ, F. V."
+        ]
+      },
+      {
+        "name": "Patricia Aila Pereira da Costa",
+        "ordemAutoria": "5",
+        "citationName": [
+          "COSTA, P. A. P."
+        ]
+      },
+      {
+        "name": "Carla de Oliveira Mororó",
+        "ordemAutoria": "6",
+        "citationName": [
+          "MORORO, C. O."
+        ]
+      },
+      {
+        "name": "Maria José Botelho Alves",
+        "ordemAutoria": "7",
+        "citationName": [
+          "ALVES, M. J. B."
+        ]
+      },
+      {
+        "name": "Maria Antonieta Ferrara",
+        "ordemAutoria": "8",
+        "citationName": [
+          "FERRARA, M. A."
+        ]
+      }
+    ]
+  },
+  {
+    "identifier.doi": "10.1097/inf.0b013e3182868b32",
+    "title": "Accuracy And Interobserver Variation Of Three Clinical Decision Rules For The Diagnosis Of Streptococcal Pharyngitis",
+    "language": "Inglês",
+    "publicationDate": "2013",
+    "volume": "32",
+    "series": "6",
+    "startPage": "686",
+    "endPage": "687",
+    "type": "journal article",
+    "keyword": [
+      "validation study",
+      "sensitivity",
+      "specificity",
+      "streptococcal pharyngitis",
+      "rheumatic fever"
+    ],
+    "researchArea.cnpq": [
+      "doenças infecciosas",
+      "Saúde Coletiva"
+    ],
+    "resourceUrl": "http://journals.lww.com/pidj/pages/articleviewer.aspx?year=2013&issue=06000&article=00027&type=abstract][doi:10.1097/inf.0b013e3182868b32",
+    "PublisherJournal": {
+      "identifier.issn": "0891-3668",
+      "title": "The Pediatric Infectious Disease Journal"
+    },
+    "authors": [
+      {
+        "name": "Dulce Helena Gonçalves Orofino",
+        "ordemAutoria": "1",
+        "citationName": [
+          "OROFINO, D. H. G.",
+          "OROFINO, DH",
+          "OROFINO, DULCE HELENA GONÇALVES",
+          "OROFINO, DULCE H. G.",
+          "OROFINO, DULCE"
+        ],
+        "identifier.lattes": "0009277151089005",
+        "identifier.orcid": "0000-0002-0953-1831",
+        "nationality": "Brasil",
+        "birthCity": "rio de janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Medicina"
+        ],
+        "miniBiography": "Atualmente é Professora Auxiliar de Ensino da Disciplina de Pediatria e Supervisora do Internato da Escola de Medicina Souza Marques. Exerceu a função de Supervisora do Internato de Pediatria de 2004 a 2011.Trabalhou de 1992 a 2012 como médica cardiopediatra do Hospital Municipal Jesus-RJ. Atuando principalmente nos seguintes temas: cardiopatias congênitas, febre reumática, doença de kawasaki, dor de garganta, miocardites agudas, miocardiopatias dilatadas e Zika vírus.&#10;Doutorado em Pesquisa Clínica em Doenças Infecciosas pelo IPEC--Fiocruz-Laboratório de Epidemiologia Clínica.Membro do grupo de pesquisa Epidemiologia Clínica Aplicada ao Desenvolvimento de Instrumentos de Apoio à Decisão Médica coordenado pela Dra Sonia Regina Lambert Passos.",
+        "miniBiography_eng": ", acting on the following subjects: cardiologia pediatrica, kawasaki, espiras embolizantes, dor de garganta, coarctação de aorta,Zik vírus"
+      },
+      {
+        "name": "PASSOS, SÔNIA REGINA LAMBERT",
+        "ordemAutoria": "2",
+        "citationName": [
+          "PASSOS, SÔNIA REGINA LAMBERT"
+        ],
+        "identifier.lattes": "1563815489548742"
+      },
+      {
+        "name": "DE ANDRADE, CARLOS AUGUSTO FERREIRA",
+        "ordemAutoria": "3",
+        "citationName": [
+          "DE ANDRADE, CARLOS AUGUSTO FERREIRA"
+        ]
+      },
+      {
+        "name": "NIGRI, DANIEL",
+        "ordemAutoria": "4",
+        "citationName": [
+          "NIGRI, DANIEL"
+        ]
+      },
+      {
+        "name": "DOS SANTOS WERNECK, LÚCIA",
+        "ordemAutoria": "5",
+        "citationName": [
+          "DOS SANTOS WERNECK, LÚCIA"
+        ]
+      },
+      {
+        "name": "DE OLIVEIRA, RAQUEL CARVALHAES",
+        "ordemAutoria": "6",
+        "citationName": [
+          "DE OLIVEIRA, RAQUEL CARVALHAES"
+        ]
+      },
+      {
+        "name": "HÖKERBERG, YARA HAHR MARQUES",
+        "ordemAutoria": "7",
+        "citationName": [
+          "HÖKERBERG, YARA HAHR MARQUES"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "O preenchimento correto da caderneta da criança é essencial para o cuidado pediátrico competente",
+    "language": "Português",
+    "publicationDate": "2012",
+    "volume": "13 supl",
+    "series": "",
+    "startPage": "81",
+    "endPage": "",
+    "type": "journal article",
+    "keyword": [
+      "caderneta da criança",
+      "cuidados primários"
+    ],
+    "researchArea.cnpq": [],
+    "resourceUrl": "",
+    "PublisherJournal": {
+      "identifier.issn": "1676-1014",
+      "title": "REVISTA DE PEDIATRIA SOPERJ"
+    },
+    "authors": [
+      {
+        "name": "Dulce Helena Gonçalves Orofino",
+        "ordemAutoria": "1",
+        "citationName": [
+          "OROFINO, D. H. G.",
+          "OROFINO, DH",
+          "OROFINO, DULCE HELENA GONÇALVES",
+          "OROFINO, DULCE H. G.",
+          "OROFINO, DULCE"
+        ],
+        "identifier.lattes": "0009277151089005",
+        "identifier.orcid": "0000-0002-0953-1831",
+        "nationality": "Brasil",
+        "birthCity": "rio de janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Medicina"
+        ],
+        "miniBiography": "Atualmente é Professora Auxiliar de Ensino da Disciplina de Pediatria e Supervisora do Internato da Escola de Medicina Souza Marques. Exerceu a função de Supervisora do Internato de Pediatria de 2004 a 2011.Trabalhou de 1992 a 2012 como médica cardiopediatra do Hospital Municipal Jesus-RJ. Atuando principalmente nos seguintes temas: cardiopatias congênitas, febre reumática, doença de kawasaki, dor de garganta, miocardites agudas, miocardiopatias dilatadas e Zika vírus.&#10;Doutorado em Pesquisa Clínica em Doenças Infecciosas pelo IPEC--Fiocruz-Laboratório de Epidemiologia Clínica.Membro do grupo de pesquisa Epidemiologia Clínica Aplicada ao Desenvolvimento de Instrumentos de Apoio à Decisão Médica coordenado pela Dra Sonia Regina Lambert Passos.",
+        "miniBiography_eng": ", acting on the following subjects: cardiologia pediatrica, kawasaki, espiras embolizantes, dor de garganta, coarctação de aorta,Zik vírus"
+      },
+      {
+        "name": "Natalia Monte Faissol",
+        "ordemAutoria": "2",
+        "citationName": [
+          "FAISSOL, N. M."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Caderneta de Saúde da Criança: 10 anos depois de sua criação é utilizada como cartão de vacina>",
+    "language": "Português",
+    "publicationDate": "2015",
+    "volume": "15 supl 1",
+    "series": "",
+    "startPage": "65",
+    "endPage": "",
+    "type": "journal article",
+    "keyword": [
+      "caderneta da criança",
+      "cuidados primários"
+    ],
+    "researchArea.cnpq": [],
+    "resourceUrl": "",
+    "PublisherJournal": {
+      "identifier.issn": "1676-1014",
+      "title": "Revista de Pediatria SOPERJ"
+    },
+    "authors": [
+      {
+        "name": "Dulce Helena Gonçalves Orofino",
+        "ordemAutoria": "1",
+        "citationName": [
+          "OROFINO, D. H. G.",
+          "OROFINO, DH",
+          "OROFINO, DULCE HELENA GONÇALVES",
+          "OROFINO, DULCE H. G.",
+          "OROFINO, DULCE"
+        ],
+        "identifier.lattes": "0009277151089005",
+        "identifier.orcid": "0000-0002-0953-1831",
+        "nationality": "Brasil",
+        "birthCity": "rio de janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Medicina"
+        ],
+        "miniBiography": "Atualmente é Professora Auxiliar de Ensino da Disciplina de Pediatria e Supervisora do Internato da Escola de Medicina Souza Marques. Exerceu a função de Supervisora do Internato de Pediatria de 2004 a 2011.Trabalhou de 1992 a 2012 como médica cardiopediatra do Hospital Municipal Jesus-RJ. Atuando principalmente nos seguintes temas: cardiopatias congênitas, febre reumática, doença de kawasaki, dor de garganta, miocardites agudas, miocardiopatias dilatadas e Zika vírus.&#10;Doutorado em Pesquisa Clínica em Doenças Infecciosas pelo IPEC--Fiocruz-Laboratório de Epidemiologia Clínica.Membro do grupo de pesquisa Epidemiologia Clínica Aplicada ao Desenvolvimento de Instrumentos de Apoio à Decisão Médica coordenado pela Dra Sonia Regina Lambert Passos.",
+        "miniBiography_eng": ", acting on the following subjects: cardiologia pediatrica, kawasaki, espiras embolizantes, dor de garganta, coarctação de aorta,Zik vírus"
+      },
+      {
+        "name": "andrea valentim goldenzon",
+        "ordemAutoria": "2",
+        "citationName": [
+          "GOLDENZON, A. V."
+        ]
+      },
+      {
+        "name": "Larissa Soutelinho da Costa",
+        "ordemAutoria": "3",
+        "citationName": [
+          "COSTA, L. S."
+        ]
+      }
+    ]
+  },
+  {
+    "identifier.doi": "10.1590/S16789946202062050",
+    "title": "24-hour Holter findings in infants with in-utero exposure to the Zika virus: a series of cases D",
+    "language": "Inglês",
+    "publicationDate": "2020",
+    "volume": "62",
+    "series": "",
+    "startPage": "1678-9946",
+    "endPage": "",
+    "type": "journal article",
+    "keyword": [],
+    "researchArea.cnpq": [],
+    "resourceUrl": "http://https://www.scielo.br/pdf/rimtsp/v62/1678-9946-rimtsp-62-S1678-9946202062050.pdf][doi:10.1590/s16789946202062050",
+    "PublisherJournal": {
+      "identifier.issn": "0036-4665",
+      "title": "REVISTA DO INSTITUTO DE MEDICINA TROPICAL DE SAO PAULO"
+    },
+    "authors": [
+      {
+        "name": "DE OLIVEIRA, RAQUEL CARVALHAES",
+        "ordemAutoria": "1",
+        "citationName": [
+          "DE OLIVEIRA, RAQUEL CARVALHAES"
+        ]
+      },
+      {
+        "name": "Leticia Machado Lima e Silva",
+        "ordemAutoria": "10",
+        "citationName": [
+          "SILVA, L. M. L. E."
+        ]
+      },
+      {
+        "name": "Tiago Moreira Ramos",
+        "ordemAutoria": "11",
+        "citationName": [
+          "RAMOS, T. M."
+        ]
+      },
+      {
+        "name": "Luan Noé da Silva",
+        "ordemAutoria": "12",
+        "citationName": [
+          "SILVA, L. N."
+        ]
+      },
+      {
+        "name": "Dulce Helena Gonçalves Orofino",
+        "ordemAutoria": "13",
+        "citationName": [
+          "OROFINO, D. H. G.",
+          "OROFINO, DH",
+          "OROFINO, DULCE HELENA GONÇALVES",
+          "OROFINO, DULCE H. G.",
+          "OROFINO, DULCE"
+        ],
+        "identifier.lattes": "0009277151089005",
+        "identifier.orcid": "0000-0002-0953-1831",
+        "nationality": "Brasil",
+        "birthCity": "rio de janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Medicina"
+        ],
+        "miniBiography": "Atualmente é Professora Auxiliar de Ensino da Disciplina de Pediatria e Supervisora do Internato da Escola de Medicina Souza Marques. Exerceu a função de Supervisora do Internato de Pediatria de 2004 a 2011.Trabalhou de 1992 a 2012 como médica cardiopediatra do Hospital Municipal Jesus-RJ. Atuando principalmente nos seguintes temas: cardiopatias congênitas, febre reumática, doença de kawasaki, dor de garganta, miocardites agudas, miocardiopatias dilatadas e Zika vírus.&#10;Doutorado em Pesquisa Clínica em Doenças Infecciosas pelo IPEC--Fiocruz-Laboratório de Epidemiologia Clínica.Membro do grupo de pesquisa Epidemiologia Clínica Aplicada ao Desenvolvimento de Instrumentos de Apoio à Decisão Médica coordenado pela Dra Sonia Regina Lambert Passos.",
+        "miniBiography_eng": ", acting on the following subjects: cardiologia pediatrica, kawasaki, espiras embolizantes, dor de garganta, coarctação de aorta,Zik vírus"
+      },
+      {
+        "name": "Marcos Pone",
+        "ordemAutoria": "2",
+        "citationName": [
+          "PONE, M."
+        ]
+      },
+      {
+        "name": "PASSOS, SONIA R. L.",
+        "ordemAutoria": "3",
+        "citationName": [
+          "PASSOS, SONIA R. L."
+        ]
+      },
+      {
+        "name": "rafaela valentim goldenzon",
+        "ordemAutoria": "4",
+        "citationName": [
+          "GOLDENZON, R. V."
+        ]
+      },
+      {
+        "name": "Sheila Pone",
+        "ordemAutoria": "5",
+        "citationName": [
+          "PONE, S."
+        ]
+      },
+      {
+        "name": "MOREIRA, MARIA ELIZABETH L.",
+        "ordemAutoria": "6",
+        "citationName": [
+          "MOREIRA, MARIA ELIZABETH L."
+        ]
+      },
+      {
+        "name": "Elisa Barroso de Aguiar",
+        "ordemAutoria": "7",
+        "citationName": [
+          "AGUIAR, E. B."
+        ]
+      },
+      {
+        "name": "Igo Oliveira de Araújo",
+        "ordemAutoria": "8",
+        "citationName": [
+          "ARAUJO, I. O."
+        ]
+      },
+      {
+        "name": "Bruna Menezes de Oliveira",
+        "ordemAutoria": "9",
+        "citationName": [
+          "OLIVEIRA, B. M."
+        ]
+      }
+    ]
+  },
+  {
+    "identifier.doi": "10.1001/jamanetworkopen.2020.9303",
+    "title": "Association Between Antenatal Exposure to Zika Virus and Anatomical and Neurodevelopmental Abnormalities in Children",
+    "language": "Inglês",
+    "publicationDate": "2020",
+    "volume": "3",
+    "series": "7",
+    "startPage": "e209303",
+    "endPage": "",
+    "type": "journal article",
+    "keyword": [
+      "zika virus"
+    ],
+    "researchArea.cnpq": [
+      "doenças infecciosas"
+    ],
+    "resourceUrl": "doi:10.1001/jamanetworkopen.2020.9303",
+    "PublisherJournal": {
+      "identifier.issn": "2574-3805",
+      "title": "JAMA NETWORK OPEN"
+    },
+    "authors": [
+      {
+        "name": "CRANSTON, JESSICA S.",
+        "ordemAutoria": "1",
+        "citationName": [
+          "CRANSTON, JESSICA S."
+        ]
+      },
+      {
+        "name": "Dulce Helena Gonçalves Orofino",
+        "ordemAutoria": "10",
+        "citationName": [
+          "OROFINO, D. H. G.",
+          "OROFINO, DH",
+          "OROFINO, DULCE HELENA GONÇALVES",
+          "OROFINO, DULCE H. G.",
+          "OROFINO, DULCE"
+        ],
+        "identifier.lattes": "0009277151089005",
+        "identifier.orcid": "0000-0002-0953-1831",
+        "nationality": "Brasil",
+        "birthCity": "rio de janeiro",
+        "birthState": "RJ",
+        "birthCountry": "Brasil",
+        "researchArea": [
+          "Medicina"
+        ],
+        "miniBiography": "Atualmente é Professora Auxiliar de Ensino da Disciplina de Pediatria e Supervisora do Internato da Escola de Medicina Souza Marques. Exerceu a função de Supervisora do Internato de Pediatria de 2004 a 2011.Trabalhou de 1992 a 2012 como médica cardiopediatra do Hospital Municipal Jesus-RJ. Atuando principalmente nos seguintes temas: cardiopatias congênitas, febre reumática, doença de kawasaki, dor de garganta, miocardites agudas, miocardiopatias dilatadas e Zika vírus.&#10;Doutorado em Pesquisa Clínica em Doenças Infecciosas pelo IPEC--Fiocruz-Laboratório de Epidemiologia Clínica.Membro do grupo de pesquisa Epidemiologia Clínica Aplicada ao Desenvolvimento de Instrumentos de Apoio à Decisão Médica coordenado pela Dra Sonia Regina Lambert Passos.",
+        "miniBiography_eng": ", acting on the following subjects: cardiologia pediatrica, kawasaki, espiras embolizantes, dor de garganta, coarctação de aorta,Zik vírus"
+      },
+      {
+        "name": "BRASIL, PATRICIA",
+        "ordemAutoria": "11",
+        "citationName": [
+          "BRASIL, PATRICIA"
+        ]
+      },
+      {
+        "name": "KERIN, TARA",
+        "ordemAutoria": "12",
+        "citationName": [
+          "KERIN, TARA"
+        ]
+      },
+      {
+        "name": "ADACHI, KRISTINA",
+        "ordemAutoria": "13",
+        "citationName": [
+          "ADACHI, KRISTINA"
+        ]
+      },
+      {
+        "name": "SOARES, FERNANDA MENDES",
+        "ordemAutoria": "14",
+        "citationName": [
+          "SOARES, FERNANDA MENDES"
+        ]
+      },
+      {
+        "name": "DUNSHEE DE ABRANCHES, ANDREA",
+        "ordemAutoria": "15",
+        "citationName": [
+          "DUNSHEE DE ABRANCHES, ANDREA"
+        ]
+      },
+      {
+        "name": "DA COSTA, ANA CAROLINA C.",
+        "ordemAutoria": "16",
+        "citationName": [
+          "DA COSTA, ANA CAROLINA C."
+        ]
+      },
+      {
+        "name": "LOPES MOREIRA, MARIA ELISABETH",
+        "ordemAutoria": "17",
+        "citationName": [
+          "LOPES MOREIRA, MARIA ELISABETH"
+        ]
+      },
+      {
+        "name": "TIENE, SOPHIA FINN",
+        "ordemAutoria": "2",
+        "citationName": [
+          "TIENE, SOPHIA FINN"
+        ]
+      },
+      {
+        "name": "NIELSEN-SAINES, KARIN",
+        "ordemAutoria": "3",
+        "citationName": [
+          "NIELSEN-SAINES, KARIN"
+        ]
+      },
+      {
+        "name": "VASCONCELOS, ZILTON",
+        "ordemAutoria": "4",
+        "citationName": [
+          "VASCONCELOS, ZILTON"
+        ]
+      },
+      {
+        "name": "PONE, MARCOS V.",
+        "ordemAutoria": "5",
+        "citationName": [
+          "PONE, MARCOS V."
+        ]
+      },
+      {
+        "name": "PONE, SHEILA",
+        "ordemAutoria": "6",
+        "citationName": [
+          "PONE, SHEILA"
+        ]
+      },
+      {
+        "name": "ZIN, ANDREA",
+        "ordemAutoria": "7",
+        "citationName": [
+          "ZIN, ANDREA"
+        ]
+      },
+      {
+        "name": "SALLES, TANIA SAAD",
+        "ordemAutoria": "8",
+        "citationName": [
+          "SALLES, TANIA SAAD"
+        ]
+      },
+      {
+        "name": "PEREIRA, JOSE PAULO",
+        "ordemAutoria": "9",
+        "citationName": [
+          "PEREIRA, JOSE PAULO"
+        ]
+      }
+    ]
+  }
+]
