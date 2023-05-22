@@ -38,6 +38,15 @@ public class CompletudeCamposTest {
     }
 
     @Test
+    public void testCompletudeCamposOrExclusivo3() {
+        Publicacao publicacao = Publicacao.builder()
+                .titulo("Título do Artigo")
+                .build();
+
+        assertTrue(CompletudeCamposUtil.calcularCompletudeCamposOrExclusivo(publicacao));
+    }
+
+    @Test
     public void testCompletudeRegistrosMultiCampos() {
         Autor autor = Autor.builder()
                             .nome("João da Silva")
@@ -74,17 +83,11 @@ public class CompletudeCamposTest {
     public void testCompletudeRegistrosMultiCampos2() {
         Autor autor = Autor.builder()
                 .nome("João da Silva")
-                .ordemAutoria(null)
-                .nomesCitacao(null)
                 .identificadorLattes("1234567890")
-                .identificadorOrcid(null)
                 .nacionalidade("Brasileiro")
                 .cidadeNascimento("Brasília")
                 .estadoNascimento("DF")
                 .paisNascimento("Brasil")
-                .areasPesquisa(null)
-                .miniBiografia(null)
-                .miniBiografiaIngles(null)
                 .build();
 
         JournalPublicacao journal = JournalPublicacao.builder()
@@ -98,13 +101,40 @@ public class CompletudeCamposTest {
                 .idioma("Português")
                 .dataPublicacao("2022-01-01")
                 .volume("10")
-                .series(null)
                 .paginaInicio("1")
                 .paginaFim("10")
                 .tipo("Artigo Científico")
-                .palavrasChave(null)
-                .areasPesquisaCnpq(null)
-                .urlRecurso(null)
+                .journalPublicacao(journal)
+                .autores(Collections.singletonList(autor))
+                .build();
+
+        assertFalse(CompletudeRegistrosUtil.calcularCompletudeRegistrosMultiCampos(publicacao));
+    }
+
+    @Test
+    public void testCompletudeRegistrosMultiCampos3() {
+        Autor autor = Autor.builder()
+                    .nome("João da Silva")
+                    .nacionalidade("Brasileiro")
+                    .cidadeNascimento("Brasília")
+                    .estadoNascimento("DF")
+                    .paisNascimento("Brasil")
+                    .build();
+
+        JournalPublicacao journal = JournalPublicacao.builder()
+                .issn("12345678")
+                .nome("Nome do Journal")
+                .build();
+
+        Publicacao publicacao = Publicacao.builder()
+                .doi("10.123/abc")
+                .titulo("Título do Artigo")
+                .idioma("Português")
+                .dataPublicacao("2022-01-01")
+                .volume("10")
+                .paginaInicio("1")
+                .paginaFim("10")
+                .tipo("Artigo Científico")
                 .journalPublicacao(journal)
                 .autores(Collections.singletonList(autor))
                 .build();
