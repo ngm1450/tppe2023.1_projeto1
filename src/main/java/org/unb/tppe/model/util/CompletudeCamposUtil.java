@@ -6,6 +6,8 @@ import java.lang.reflect.Field;
 
 public class CompletudeCamposUtil {
 
+    // Utilizando reflection para evitar a desnecessária repetição dos campos
+
     public static boolean calcularCompletudeCamposOrExclusivo(Publicacao publicacao) {
         Field[] fields = Publicacao.class.getDeclaredFields();
         for (Field field : fields) {
