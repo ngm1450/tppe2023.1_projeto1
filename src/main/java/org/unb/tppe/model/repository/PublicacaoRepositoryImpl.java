@@ -13,19 +13,15 @@ import java.util.List;
 public class PublicacaoRepositoryImpl implements PublicacaoRepository {
 
     @Override
-    public List<Publicacao> findAll() {
-        List<Publicacao> publicacoes = Collections.emptyList();
+    public List<Publicacao> findAll() throws IOException {
+        List<Publicacao> publicacoes;
         ObjectMapper objectMapper = new ObjectMapper();
         String extratoFiocruzPath = Paths.get("")
                                          .toAbsolutePath()
                                          .toString()
                                          .concat("\\src\\main\\java\\org\\unb\\tppe\\data\\extrato_fiocruz.json");
         File extratoFiocruz = new File(extratoFiocruzPath);
-        try {
-            publicacoes = new ArrayList<>(List.of(objectMapper.readValue(extratoFiocruz, Publicacao[].class)));
-        } catch (IOException e) {
-            System.out.println("Infelizmente houve um erro ao abrir o .json de publicações. Verifique o caminho e tente novamente");
-        }
+        publicacoes = new ArrayList<>(List.of(objectMapper.readValue(extratoFiocruz, Publicacao[].class)));
         return publicacoes;
     }
 }

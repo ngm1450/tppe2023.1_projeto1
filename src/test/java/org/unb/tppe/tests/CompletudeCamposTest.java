@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
+import org.unb.tppe.infra.exception.PublicacaoException;
 import org.unb.tppe.model.entity.Autor;
 import org.unb.tppe.model.entity.JournalPublicacao;
 import org.unb.tppe.model.entity.Publicacao;
@@ -11,6 +12,7 @@ import org.unb.tppe.model.repository.PublicacaoRepositoryImpl;
 import org.unb.tppe.model.util.CompletudeCamposUtil;
 import org.unb.tppe.model.util.CompletudeRegistrosUtil;
 
+import java.io.IOException;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
@@ -154,8 +156,13 @@ public class CompletudeCamposTest {
     }
 
     private static Publicacao getRandomPublicacao() {
-        if (publicacoes == null || publicacoes.isEmpty())
-            publicacoes = new PublicacaoRepositoryImpl().findAll();
+        if (publicacoes == null || publicacoes.isEmpty()) {
+            try {
+                publicacoes = new PublicacaoRepositoryImpl().findAll();
+            } catch (IOException e) {
+                throw new PublicacaoException();
+            }
+        }
         int randomIndex = random.nextInt(publicacoes.size());
         return publicacoes.get(randomIndex);
     }
