@@ -17,7 +17,7 @@ import java.util.Random;
 import java.util.stream.Stream;
 
 public class CompletudeCamposTest {
-    private static List<Publicacao> publicacoes;
+    static List<Publicacao> publicacoes;
     private static final Random random = new Random();
 
     @ParameterizedTest
