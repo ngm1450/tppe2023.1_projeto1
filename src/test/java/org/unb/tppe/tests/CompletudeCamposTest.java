@@ -47,7 +47,7 @@ public class CompletudeCamposTest {
     private static Stream<Publicacao> getPublicacoesForCompletudeCamposOrExclusivo() {
         return Stream.of(
                 getRandomPublicacao(),
-                new Publicacao(),
+                Publicacao.builder().paginaFim("Número página fim").build(),
                 Publicacao.builder().titulo("Título do Artigo").build()
         );
     }
@@ -156,7 +156,8 @@ public class CompletudeCamposTest {
     private static Publicacao getRandomPublicacao() {
         if (publicacoes == null || publicacoes.isEmpty())
             publicacoes = new PublicacaoRepositoryImpl().findAll();
-        return publicacoes.get(random.nextInt(publicacoes.size()));
+        int randomIndex = random.nextInt(publicacoes.size());
+        return publicacoes.get(randomIndex);
     }
 }
 

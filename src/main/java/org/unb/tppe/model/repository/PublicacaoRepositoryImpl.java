@@ -1,7 +1,6 @@
 package org.unb.tppe.model.repository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.unb.tppe.infra.exception.PublicacaoException;
 import org.unb.tppe.model.entity.Publicacao;
 
 import java.io.File;
@@ -25,7 +24,7 @@ public class PublicacaoRepositoryImpl implements PublicacaoRepository {
         try {
             publicacoes = new ArrayList<>(List.of(objectMapper.readValue(extratoFiocruz, Publicacao[].class)));
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Infelizmente houve um erro ao abrir o .json de publicações. Verifique o caminho e tente novamente");
         }
         return publicacoes;
     }

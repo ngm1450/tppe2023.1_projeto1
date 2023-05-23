@@ -3,9 +3,6 @@ package org.unb.tppe.model.util;
 import org.unb.tppe.model.entity.Autor;
 import org.unb.tppe.model.entity.Publicacao;
 
-import java.util.List;
-
-
 public class CompletudeRegistrosUtil {
 
     public static boolean calcularCompletudeRegistrosMultiCampos(Publicacao publicacao) {
@@ -22,11 +19,8 @@ public class CompletudeRegistrosUtil {
             && publicacao.getPalavrasChave() != null
             && publicacao.getAreasPesquisaCnpq() != null
             && publicacao.getUrlRecurso() != null
-            && publicacao.getJournalPublicacao() != null
-            && publicacao.getAutores() != null) {
-
-            List<Autor> autores = publicacao.getAutores();
-            for (Autor autor : autores) {
+            && publicacao.getJournalPublicacao() != null) {
+            for (Autor autor : publicacao.getAutores()) {
                 if (!isAutorCompleto(autor)) {
                     return false;
                 }
@@ -52,7 +46,5 @@ public class CompletudeRegistrosUtil {
                 || autor.getMiniBiografia() != null
                 || autor.getMiniBiografiaIngles() != null;
     }
-
-
 
 }

@@ -6,7 +6,7 @@ public class Util {
 
     public static String getDummyString() {
         Random random = new Random();
-        String CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+        String CHARACTERS = "ABCDEFGHIJKLM NOPQRSTUVWXYZabcdefghi jklmnopqrs tuvwxyz0123456789";
 
         StringBuilder sb = new StringBuilder();
 
